@@ -132,3 +132,8 @@ ul.Header {
     margin-bottom: 50px;
     gap: 12px;
   }
+
+  a {
+    text-decoration: none;
+    color: inherit
+  }
